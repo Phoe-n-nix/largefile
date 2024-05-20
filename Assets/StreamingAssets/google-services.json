@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012798796492",
+    "project_id": "cynoticsotpauth",
+    "storage_bucket": "cynoticsotpauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012798796492:android:f4bf54c729697c3b6cc869",
+        "android_client_info": {
+          "package_name": "com.Cynotics.CynoticsOTPAuth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqTh_X9iqQ3_N6lXX515z5NE3Bey_jyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
